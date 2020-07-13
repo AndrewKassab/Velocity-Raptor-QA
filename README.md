@@ -1,7 +1,6 @@
 # Calamari - QA 
 
-Framework for testing Velocity Raptor chrome extension by CalamariCrew.
-Extension found here: https://github.com/cse112-sp20/CalamariCrew
+Framework for testing the [Velocity Raptor](https://github.com/cse112-sp20/CalamariCrew) chrome extension 
 
 # Running tests
 
